@@ -1,0 +1,41 @@
+.row {
+    display: flex; 
+    flex-wrap: wrap;
+}
+* {
+    font-family: PT sans;
+    padding: 0; 
+}
+.container mt-4 {
+    display: flex; 
+    flex-wrap: wrap; 
+}
+.robot {
+   list-style: none;
+   text-align: center;
+   margin: 0; 
+   padding: 0;     
+   padding:10px;
+   box-sizing: border-box; 
+    
+}
+ul {
+   width: 25%;    
+   list-style: none;
+   text-align: center;
+   margin: 0; 
+   padding: 0;     
+   padding:10px;
+   box-sizing: border-box;
+    border: 2px solid; 
+}
+img {
+/*  
+    width: 50%;
+    height: 50%;
+*/
+}
+li {
+    width: 100%; 
+}
+
